@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<project name="L2jFrozen_DataPack" default="dist-local" basedir=".">
+<project name="L2JGO_DataPack" default="dist-local" basedir=".">
 	<description>
         This script will build the L2J-Frozen DataPack. Thanks for Using our Pack.
         
