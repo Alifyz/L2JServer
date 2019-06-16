@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="L2jFrozen_GameServer" default="dist-local" basedir=".">
+<project name="L2JGO_GameServer" default="dist-local" basedir=".">
 	<description>
         This script will build the L2J-Frozen server. Thanks for Using our Pack.
         
